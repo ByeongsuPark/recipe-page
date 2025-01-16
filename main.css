@@ -173,7 +173,7 @@ table {
     color: #854632;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 23.438rem) {
     article {
         width: 100%;
         margin: 0;
