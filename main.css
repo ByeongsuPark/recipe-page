@@ -7,7 +7,7 @@ body {
     background-color: #F3E5D7;
 }
 
-article {
+main {
     max-width: 46rem;
     background-color: white;
     display: flex;
@@ -25,7 +25,7 @@ article {
     color: #5F564D;
 }
 
-article img {
+main img {
     max-width: 100%;
     align-self: center;
     border-radius: 12px;
@@ -59,11 +59,12 @@ h2 {
     padding: 1.75rem;
 }
 
-.preparation_time h3 {
+.preparation_time h2 {
     color: #7A284E;
     font-family: "Outfit", serif;
     font-size: 1.25rem;
     font-weight: 600;
+    margin-top: 0rem;
     margin-bottom: 1rem;
 }
 
